@@ -1,5 +1,7 @@
 # captca_breaker
 
+Implemented used keras
+
 #Generating captchas
 ./generate.py --width 128 --height 64 --length 4 --symbols symbols.txt --count 3200 --output-dir test
 
